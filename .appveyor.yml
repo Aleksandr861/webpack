@@ -1,4 +1,4 @@
-image: image: Ubuntu2204
+image: Ubuntu2204
 stack: node 20
 branches: 
   only:
